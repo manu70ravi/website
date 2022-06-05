@@ -1,2 +1,2 @@
 FROM devopsedu/webapp
-COPY ./website/ /usr/local
+COPY . /usr/local
